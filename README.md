@@ -16,3 +16,5 @@ I added an extra column for "Description" for description of the job.
 I have been trying to update "scrape_job_data" function so that it would scrape description of the job but have been unsuccessful.
 
 I think you could start from here. If you could scrape description, it should contain information about international diversity (although with my own searching, description in general does not have any words about it most of the time). Or if you can find other ways to scrape information about diversity, that would do the job. 
+
+If you have any questions, slack me (Woohyeon Her).
